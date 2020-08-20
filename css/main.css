@@ -5,7 +5,7 @@ body {
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #444;
-  overflow: hidden;
+  overflow: auto;
 }
 
 /* Style the links inside the navigation bar */
