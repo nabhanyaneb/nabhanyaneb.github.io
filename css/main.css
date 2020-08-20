@@ -1,10 +1,10 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 100%;
 }
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #444;
   overflow: hidden;
 }
 
