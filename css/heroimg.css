@@ -33,7 +33,7 @@
             padding: 20px 50px;
             margin-left: -250px;
             color: black; 
-            background-image: linear-gradient(blue, white);
+            background-image: radial-gradient(#e36662, white);
             text-align: left; 
             cursor: pointer 
         } 
