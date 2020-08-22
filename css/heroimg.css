@@ -11,14 +11,14 @@
             left: 27%; 
             color: white; 
         } 
-        h1 { 
+        .logo h1 { 
             padding-top: 25%;
             position: relative; 
             font-family: 'Paprika';
             text-align: left;
             font-size:4vw;
         } 
-        p{
+        .logo p{
             padding-top: 05%;
             padding-bottom: 8.5%;
             position: relative; 
