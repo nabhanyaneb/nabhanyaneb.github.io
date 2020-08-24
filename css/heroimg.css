@@ -31,6 +31,12 @@
             background-color: green; 
             color: white; 
         } 
+         .logo a{
+            color:"black";
+        }
+        .logo a:hover{
+            color:"white";
+        }
         .heroButton{
                 position: absolute;
                 bottom: 3.25vh;
@@ -48,4 +54,11 @@
                 cursor: pointer; 
                 font-family: 'Aleo';
 
+        }
+
+         .heroButton a{
+            color:"black";
+        }
+        .heroButton a:hover{
+            color:"white";
         }
