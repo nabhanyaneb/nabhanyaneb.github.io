@@ -23,7 +23,7 @@
     position: relative; 
     font-family: 'Alegreya Sans SC'; 
     text-align: center;
-    font-size:2.5vw;
+    font-size:2.5em;
     color: white;
 }
 .gtkm li:before{
